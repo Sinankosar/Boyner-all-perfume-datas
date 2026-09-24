@@ -25,3 +25,7 @@ Bu proje yalnızca **eğitim, kişisel gelişim ve ticari olmayan portföy amaç
 This script demonstrates a Python-based ETL (Extract, Transform, Load) pipeline that fetches product listing data via paginated REST API endpoints, parses metadata using regular expressions (Regex), normalizes floating-point numerical values (e.g., currency formatting), and dynamically ingests the structured output into a MySQL database.
 
 Bu betik, sayfalanmış (paginated) REST API uç noktalarından ürün verilerini çeken, düzenli ifadeler (Regex) ile meta verileri ayrıştıran, sayısal değerleri (fiyat/ondalık) dönüştüren ve veriyi dinamik olarak MySQL veritabanına aktaran Python tabanlı bir ETL mimarisini sergilemektedir.
+
+
+<img width="3840" height="1084" alt="2026-09-24_13-24-13" src="https://github.com/user-attachments/assets/3c5ec26c-c740-47e4-ba32-0207d4c06ef6" />
+
